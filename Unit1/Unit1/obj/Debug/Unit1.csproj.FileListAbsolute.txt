@@ -1,0 +1,6 @@
+/Users/salvationrushdan/Downloads/GitCommandLinePractice/Unit1/Unit1/bin/Debug/Unit1.exe
+/Users/salvationrushdan/Downloads/GitCommandLinePractice/Unit1/Unit1/bin/Debug/Unit1.pdb
+/Users/salvationrushdan/Downloads/GitCommandLinePractice/Unit1/Unit1/obj/Debug/Unit1.csproj.AssemblyReference.cache
+/Users/salvationrushdan/Downloads/GitCommandLinePractice/Unit1/Unit1/obj/Debug/Unit1.csproj.CoreCompileInputs.cache
+/Users/salvationrushdan/Downloads/GitCommandLinePractice/Unit1/Unit1/obj/Debug/Unit1.exe
+/Users/salvationrushdan/Downloads/GitCommandLinePractice/Unit1/Unit1/obj/Debug/Unit1.pdb
