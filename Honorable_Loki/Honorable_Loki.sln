@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loki", "Loki\Loki.csproj", "{27E70219-06AC-4367-9EE1-B1388F5471B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		blankConfig|Any CPU = blankConfig|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27E70219-06AC-4367-9EE1-B1388F5471B8}.blankConfig|Any CPU.ActiveCfg = blankConfig|Any CPU
+		{27E70219-06AC-4367-9EE1-B1388F5471B8}.blankConfig|Any CPU.Build.0 = blankConfig|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1394840-ACBD-4B0B-A961-F51779EE81FC}
+	EndGlobalSection
+EndGlobal

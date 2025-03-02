@@ -1,0 +1,4 @@
+/Users/salvationrushdan/Downloads/GitCommandLinePractice/Honorable_Loki/Loki/bin/blankConfig/Loki.exe
+/Users/salvationrushdan/Downloads/GitCommandLinePractice/Honorable_Loki/Loki/obj/blankConfig/Loki.csproj.AssemblyReference.cache
+/Users/salvationrushdan/Downloads/GitCommandLinePractice/Honorable_Loki/Loki/obj/blankConfig/Loki.csproj.CoreCompileInputs.cache
+/Users/salvationrushdan/Downloads/GitCommandLinePractice/Honorable_Loki/Loki/obj/blankConfig/Loki.exe

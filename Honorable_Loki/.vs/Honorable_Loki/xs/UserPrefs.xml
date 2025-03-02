@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.Honorable__Loki FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Honorable_Loki/MyClass.cs">
+    <Files>
+      <File FileName="Honorable_Loki/MyClass.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Honorable_Loki" expanded="True">
+            <Node name="Honorable_Loki" expanded="True">
+              <Node name="MyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
